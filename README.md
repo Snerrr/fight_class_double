@@ -1,0 +1,1 @@
+# fight_class_double
